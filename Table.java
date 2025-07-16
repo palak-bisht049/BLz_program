@@ -43,7 +43,7 @@ import java.util.Scanner;
 
             //DO-WHILE LOOP :
 
-public class TableOfTwo {
+public class Table {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
