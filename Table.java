@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-            // USING FOR LOOP :
+            //FOR LOOP :
 
 // public class Table{
 //     public static void main(String[] args) {
@@ -21,7 +21,7 @@ import java.util.Scanner;
 
 
 
-            // USING WHILE LOOP :
+            //WHILE LOOP :
 
 // public class TableOfTwo {
 //     public static void main(String[] args) {
